@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aaronwey/burgerHW.git"
+    "url": "git+https://github.com/aaronwey/newBurgerHW.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aaronwey/burgerHW/issues"
+    "url": "https://github.com/aaronwey/newBurgerHW/issues"
   },
-  "homepage": "https://github.com/aaronwey/burgerHW#readme",
+  "homepage": "https://github.com/aaronwey/newBurgerHW#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
